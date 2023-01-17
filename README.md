@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheDarkWolfer
-- 👀 I’m interested in big tits and asses? but mostly personality
+- 👀 I’m currently trying to hold myself together as my health goes sideways
 - 🌱 I’m currently learning Python, Javascript and C++/C#
 - 💞️ I’m looking to collaborate on nothing, I'm a lone wolf :)
 - 📫 How to reach me : reddit (u/Shadow_Lou), tweeter (@TheDarkWolfer), on minecraft (TheDarkWolfer), or by homing pidgeon
