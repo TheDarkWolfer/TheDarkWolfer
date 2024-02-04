@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Camille.Is_Me
 - 👀 I’m currently trying to hold myself together as my health goes sideways
-- 🌱 I’m currently learning Python, Javascript and C++/C#
+- 🌱 I’m currently learning Python, and C++/C#
 - 💞️ I’m looking to collaborate on nothing, I'm a lone wolf :)
 
 <!---
