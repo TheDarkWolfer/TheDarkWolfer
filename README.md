@@ -8,7 +8,7 @@ I also know a few programming languages, and plan on adding more to that list :
 - Bash      (really love the portable aspect of bash, which I try to take advantage of by making most of my scripts either use no external dependencies or as little as possible)
 
 # What am I good at ?
-As said above, I take a great deal of interest in cybersecurity, and I find great pride in the security of my devices. I've been running Linux for a while and have been managing my own little network for a while, with little to no hiccups for a few years. I've also been studying for INE's eJPT, and plan on passing in soon enough.
+As said above, I take a great deal of interest in cybersecurity, and I find great pride in the security of my devices. I've been running Linux for a while and have been managing my own little network for a while, with little to no hiccups for a few years. 
 
 # How can you reach me ?
 Here are my contacts :
