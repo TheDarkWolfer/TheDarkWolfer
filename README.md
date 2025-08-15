@@ -1,6 +1,6 @@
 # Who am I ?
 Hi there, I'm Camille, a French cybersecurity enthusiast and computer science student. 
-While preparing to integrate Sup'Info Lyons, I spend a lot of time tinkering around with Linux, and also dedicate a lot of time to learning and practicing cybersecurity-related skills, like system hardening, OPSEC and/or OSINT, log analysis and the occasional CTF.
+While preparing to integrate Sup'Info Lyon, I spend a lot of time tinkering around with Linux, and also dedicate a lot of time to learning and practicing cybersecurity-related skills, like system hardening, OPSEC and/or OSINT, log analysis and the occasional CTF.
 
 I also know a few programming languages, and plan on adding more to that list :
 - Python    (which I use for automation and quick one-off scripts)
