@@ -15,7 +15,7 @@ Here are my contacts :
 
 [OpenPGP key](https://keys.openpgp.org/vks/v1/by-fingerprint/F8CDDB141B015DE27BF913092A1F095D6B27A601)
 
-email         : camille.prado@felisse.fr
+email         : camille.dev@felisse.fr
 
 Bluesky       : @camille-is-me.bsky.social
 <!---
